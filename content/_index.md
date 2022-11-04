@@ -1,5 +1,5 @@
 ---
-header_image: "https://stateofbees.vtatlasoflife.org/images/Parnassia_miner.jpg"
-header_headline: "State of Vermont's Wild Bees"
-header_subheadline: "Next Steps"
+header_image: "https://val.vtecostudies.org/wp-content/themes/val/images/vermont-panorama-large.jpg"
+header_headline: "VAL GitHub Collaborative Process"
+header_subheadline: "First Steps"
 ---
