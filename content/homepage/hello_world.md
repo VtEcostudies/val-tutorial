@@ -20,11 +20,13 @@ Use tag-specific styles to apply just to that element
 </ul>
 
 <div class="row">
-  <div class="col-lg-6">
+  <div class="col-lg-4">
   Use Bootstrap to create responsive grids of content having lots of text that is managed by inherited CSS from the bootstrap libraries. Grid 'cells' can include images, or anything for that matter...
   </div>
-  <div class="col-lg-6">
-
+  <div class="col-lg-4">
   <img src="https://vtecostudies.org/wp-content/uploads/2022/06/Knob-lipped-Fairy-shrimp_Nathanial-Sharp_Sharon-VT_3-390x588.jpg">
+  </div>
+  <div class="col-lg-4">
+  <img src="https://val.vtecostudies.org/wp-content/uploads/2020/01/nine-spotted-2.jpeg">
   </div>
 </div>
