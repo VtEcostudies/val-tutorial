@@ -1,0 +1,49 @@
+baseURL = 'https://vtecostudies.github.io/val-tutorial'
+
+languageCode = 'en-us'
+
+# This is a "one page"-website, so we do not need these kinds of pages...
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+
+defaultContentLanguage = "en"
+
+# The name of this wonderful theme ;-).
+theme = "hugo-scroll"
+
+# The "title" of your website
+title = "VAL Collaborative Development Tutorial"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+    # A "copyright"-line to be added at the bottom of the page.
+    # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
+    copyright = "© [Vermont Center for Ecostudies](https://vtecostudies.org/)"
+
+    # The "description" of your website. This is used in the meta data of your generated html.
+    description = "Vermont Center for Ecostudies' VAL GitHub Tutorial"
+
+    # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
+    #favicon = "https://stateofbees.vtatlasoflife.org/images/VCE_logo_vertical_RGB_transparent.png"
+    favicon = "https://stateofbees.vtatlasoflife.org/images/vce_favicon.png"
+
+    # These "images" are used for the structured data templates. This will show up, when
+    # services like Twitter or Slack want to generate a preview of a link to your site.
+    # See https://gohugo.io/templates/internal#twitter-cards and
+    # https://gohugo.io/templates/internal#open-graph.
+    images = ["https://stateofbees.vtatlasoflife.org/images/Agapostemon_sericeus.jpeg"]
+
+    # Another "title" :-). This one is used as the site_name on the Hugo's internal
+    # opengraph structured data template.
+    # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
+    title = "VAL GitHub Tutorial"
+
+    # This theme will, by default, inject a design-by-line at the bottom of the page.
+    # You can turn it off, but we would really appreciate if you don’t :-)
+    # hidedesignbyline = true
+
+    [params.meta]
+        keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
