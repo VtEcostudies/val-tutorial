@@ -13,8 +13,8 @@ Use CSS files to apply styles to all content-types in the same way
 Use tag-specific styles to apply just to that element
 
 <ul>
-<li>make</li>
-<li>an</li>
+<li>make SOME CHANGES THAT WON'T WORK WELL</li>
+<li>BECAUSE WE ARE EDITING AT THE SAME TIME</li>
 <li>ordered</li>
 <li>list</li>
 </ul>
@@ -29,8 +29,4 @@ Use tag-specific styles to apply just to that element
   <div class="col-lg-4">
   <img src="https://val.vtecostudies.org/wp-content/uploads/2020/01/nine-spotted-2.jpeg">
   </div>
-  <div class="col-lg-4">
-  <img src="https://vtecostudies.org/wp-content/uploads/2021/12/Daisy_calendar-390x401.jpg">
-  </div>
-  hahahahahah
 </div>
